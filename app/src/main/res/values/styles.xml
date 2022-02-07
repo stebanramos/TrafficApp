@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="ThemePopup">
+
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="android:windowBackground">@color/transparent</item>
+    </style>
+
+    <!-- probe así pero lo transparente se vuelve completamente negro, cuando "colorPrimary" no es negro-->
+
+
+
+
+
+</resources>
